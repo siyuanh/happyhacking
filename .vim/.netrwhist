@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/home/siyuan_hua/lattice/common'
+let g:netrw_dirhist_2='/home/siyuan_hua/lattice/common/lattice'
+let g:netrw_dirhist_3='/home/siyuan_hua/lattice/common/lattice/ocean'
